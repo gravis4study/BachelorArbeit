@@ -1,0 +1,34 @@
+* MOOC是什么
+** MOOC是什么
+MOOC也叫慕课，全称 Massive Open Online Courses（大规模开放式在线课程）。MOOC在2011年末从美国硅谷发端，迅速掀起了全球在线学习的浪潮。简单地说，MOOC就是让全球各地的高校将他们的课程放到网络平台上，供全世界的人们免费学习。从此，你可以足不出户听常青藤名校课程，一睹世界知名教授的授课风采，与来自全球各地的学习者做同学，甚至还可以获得名校认证证书。
+
+现在，随着在线教育的发展，MOOC的定义也在变得更加宽泛。一些科研机构、博物馆、企业也开始推出培训课程，为学习者提供了更多的选择。
+* 三个Mooc网站
+** Coursera
+Coursera:  创始人 Daphne Koller 和 Andrew Ng  始于斯坦福大学
+*** coursera合作院校
+1. 北京大学：   https://www.coursera.org/pku
+2. 国立台湾大学：https://www.coursera.org/taiwan
+3. 香港中文大学： https://www.coursera.org/cuhk
+4. 香港科技大学：https://www.coursera.org/hkust
+5. 上海交通大学：https://www.coursera.org/sjtu
+6. 复旦大学：https://www.coursera.org/fudan
+** Edx
+Edx：CEO Anant Agarwal始于MIT和哈佛大学
+*** edx合作院校
+1. 清华大学: https://link.zhihu.com/?target=https%3A//www.edx.org/school/tsinghuax
+2. 北京大学：https://www.edx.org/school/pekingx
+3. 香港科技大学：https://www.edx.org/school/hkustx
+4. 香港大学：https://www.edx.org/school/hkux
+** Udacity
+创始人CEO Sebastian Thrun  始于斯坦福大学
+* 其他mooc
+德国的mooc:
+https://iversity.org/
+
+知乎里的链接: https://www.zhihu.com/question/21095181
+内容:
+1. 一些大学和机构的专门mooc网站
+2. 一些比较有特色的mooc网站
+
+mooc的平台或者网站之间可能会有一些差异和不同的侧重，里面的课程才让平台真正有价值，下面列举一些mooc课程导航网站：

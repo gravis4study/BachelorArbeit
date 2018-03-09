@@ -1,0 +1,12 @@
+* 如何读论文
+https://www.zhihu.com/question/23924014
+
+* 老师发我的邮件
+** 2018年03月08日 星期四
+Hallo Herr Kong,
+
+ich hätte die folgenden Artikel, bei denen Sie i.w. die genannten Referenzen (Related Work) zu existierenden Autobewertern verfolgen und lesen sollten; das Lesen der referenzierten Paper ist wichtiger als die Paper selbst. Ferner sollten Sie versuchen zu recherchieren, wie das Bewerten bei aktuellen Anbietern von MOOCs im Bereich SQL funktioniert, sofern man das herausbekommen kann.
+
+Wenn Sie sich eingelesen haben, können wir uns auch gerne zu einer Besprechung darüber und die weitere Planung treffen.
+
+noch eine kleine Ergänzung: alle Paper in ACM- oder IEEE-Werken können Sie aus dem Hochschulnetz über die jeweiligen Digital Libraries kostenlos zugreifen. Außerdem dürfen Sie natürlich bei ACM und IEEE auch gerne noch weitere passende Artikel finden.
