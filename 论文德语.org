@@ -1,0 +1,5 @@
+* 常用表达
++ [ ] Es erfolgt die Beschreibung : 在本个章节或者每个地方, 实现了什么
++ [ ] Ausschnitt 片段
++ [ ] damit zum falschen Ergebnis führen
++ [ ] Ziel ist es, .... zu ...

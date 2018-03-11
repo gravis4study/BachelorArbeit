@@ -1,0 +1,25 @@
+* 1. Einleitung
+** Motivation
++ aSQLg可以自动检查同学们的sql语法错误并且评分
++ 也会用到GReQL这个图标技术系统
+** Aufgabenstellung
+** Aufbau der Arbeit
+
+* 2. Ausgangssituation
+** Übersicht von aSQLg
+** Komponenten von aSQLg
+*** ASQLg-Engine: Das Kernmodul von aSQLg
+*** Statement-Filter: Schutz gegen Betrugsversuche
+*** StatementTester: Bewertung des SQL-Statement mit Prüfschritten
+**** Ergebnisprüfung
+文中说的是精确的一致才能给分, 我倒是觉得, 只要在行数超过一定量的情况下, 只要数量一致, 结果必定一致.
+*** Reporter
+*** Klassen für die Baumstruktur des SQL-Statements
+*** JSQL
+** Bewertung von Projektstand
+* 3. Evaluierung angewandter Arbeite
+** 3.1 „ÜPS – EIN AUTORENFREUNDLICHES TRAININGSSYSTEM FÜR SQL- ANFRAGEN“
+** 3.2 „SEMANTIC ERRORS IN SQL QUERIES: A QUITE COMPLETE LIST“
+** 3.3 EVALUIERUNG GREQL
+** 3.4 BAUM- VS GRAPHVERGLEICH
+* 5. 
